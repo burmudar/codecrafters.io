@@ -1,0 +1,3 @@
+[submodule "codecrafters-bittorrent-go"]
+	path = codecrafters-bittorrent-go
+	url = https://git.codecrafters.io/931076be0e61050e
